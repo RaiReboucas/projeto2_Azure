@@ -7,5 +7,5 @@ Obs:Fiquei surpreso quando ele reconheceu um deserto que eu criei no Blender.
 Eu utilizei tres imagens e o programa fazia uma verificação e gerava um texto sobre essas imagens, foi muito bom o resultado que saiu, o texto que foi gerado sobre as imagens demonstra que o recursos  de identificação de textos, imagens são muito precisos.
 Junto das imagens e o texto gerado, eu  coloquei um print do json gerado pelo recurso da azure.
 
-|[input](https://github.com/RaiReboucas/projeto2_Azure/tree/main/Projeto2_Azure/inputs)        |[output]()|
-|--------------|-------|
+### |[input](https://github.com/RaiReboucas/projeto2_Azure/tree/main/Projeto2_Azure/inputs)        |[output](https://github.com/RaiReboucas/projeto2_Azure/tree/main/Projeto2_Azure/output)|
+
